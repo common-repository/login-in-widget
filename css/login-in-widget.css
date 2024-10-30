@@ -1,0 +1,16 @@
+.ulTopHeader{
+  list-style: none;
+}
+
+
+.liTopHeader{
+   display: inline;
+   margin: 0;
+	 padding: 0;
+}
+
+.lang-item{
+   display: inline;
+   list-style: none;
+   width:30px;
+}

@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: login in widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-19 17:22+0100\n"
+"PO-Revision-Date: 2012-07-19 17:31+0100\n"
+"Last-Translator: Luca Preziati <luca.preziati@gmail.com>\n"
+"Language-Team: Mintel <luca.preziati@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: C:\\sviluppo\\wamp\\www\\mintel\\wp-content\\plugins\\login-in-widget\n"
+
+#: C:\sviluppo\wamp\www\mintel\wp-content\plugins\login-in-widget/login-in-widget.php:102
+msgid "TitleLogin"
+msgstr "Login"
+
+#: C:\sviluppo\wamp\www\mintel\wp-content\plugins\login-in-widget/login-in-widget.php:102
+msgid "Login"
+msgstr "Login"
+
+#: C:\sviluppo\wamp\www\mintel\wp-content\plugins\login-in-widget/login-in-widget.php:105
+msgid "Welcome"
+msgstr "Hi "
+
+#: C:\sviluppo\wamp\www\mintel\wp-content\plugins\login-in-widget/login-in-widget.php:106
+msgid "TitleProfileModify"
+msgstr "Edit your profile"
+
+#: C:\sviluppo\wamp\www\mintel\wp-content\plugins\login-in-widget/login-in-widget.php:114
+msgid "TitleLogout"
+msgstr "Logout"
+
+#: C:\sviluppo\wamp\www\mintel\wp-content\plugins\login-in-widget/login-in-widget.php:114
+msgid "Logout"
+msgstr "Logout"
+
+#~ msgid "Hi "
+#~ msgstr "Hi"
